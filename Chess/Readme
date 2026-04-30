@@ -1,1 +1,16 @@
 
+Chess Game in C++
+
+Description:
+This project is a console-based chess game implemented in C++.
+
+Features:
+- Chess board representation
+- Move validation
+- Turn-based gameplay
+
+Author:
+Vigen Khachatryan
+
+GitHub:
+https://github.com/vigen5518/Homeworks/tree/main/Chess
